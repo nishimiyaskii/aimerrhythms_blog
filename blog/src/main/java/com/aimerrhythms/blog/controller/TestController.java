@@ -38,4 +38,14 @@ public class TestController {
     public String about() {
         return "about";
     }
+
+    @RequestMapping("/admin/blogs")
+    public String blogs() {
+        return "admin/blogs";
+    }
+
+    @RequestMapping("/admin/publish")
+    public String publish() {
+        return "admin/publish";
+    }
 }
