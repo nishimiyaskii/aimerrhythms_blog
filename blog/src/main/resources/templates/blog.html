@@ -163,7 +163,7 @@
                         <h3 class="ui dividing header">Comments</h3>
                         <div class="comment">
                             <a class="avatar">
-                                <img src="../static/images/avatar.jpg">
+                                <img src="../static/images/avatar.jpg" alt="">
                             </a>
                             <div class="content">
                                 <a class="author">Matt</a>
@@ -364,7 +364,7 @@
         element: document.getElementById('waypoint'),
         handler: function(direction) {
             // console.log('You have scrolled to a thing  ' + direction)
-            if ("down" == direction) {
+            if ("down" === direction) {
                 $('#toolbar').show(500);
             } else {
                 $('#toolbar').hide(500);
