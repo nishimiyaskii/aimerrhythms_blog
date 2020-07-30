@@ -1,6 +1,8 @@
 package com.aimerrhythms.blog.controller;
 
+import com.aimerrhythms.blog.exception.BlogNotFoundException;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
@@ -9,8 +11,17 @@ import org.springframework.web.bind.annotation.RequestMapping;
  */
 @Controller
 public class TestController {
-    @RequestMapping("/index")
+
+    @GetMapping("/index")
     public String index() {
+        /*
+            error文件夹名和400.html、500.html都是规定的名字
+         */
+//        int i = 1 / 0;
+        String blog = null;
+        if (blog == null) {
+            throw new BlogNotFoundException("博客不存在...");
+        }
         return "index";
     }
 

@@ -1,0 +1,144 @@
+2020-07-26 18:20:04.954 [restartedMain] INFO  com.aimerrhythms.blog.BlogApplication - Starting BlogApplication on DESKTOP-CNOGRH7 with PID 17224 (E:\Idea_WorkSpace\aimerrhythms_blog\blog\target\classes started by aimerrhythm in E:\Idea_WorkSpace\aimerrhythms_blog)
+2020-07-26 18:20:04.961 [restartedMain] DEBUG com.aimerrhythms.blog.BlogApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-07-26 18:20:04.962 [restartedMain] INFO  com.aimerrhythms.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2020-07-26 18:20:05.029 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-26 18:20:05.029 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-26 18:20:05.773 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.aimerrhythms.blog]' package. Please check your configuration.
+2020-07-26 18:20:06.187 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2020-07-26 18:20:06.196 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-07-26 18:20:06.197 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-07-26 18:20:06.280 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-07-26 18:20:06.280 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1251 ms
+2020-07-26 18:20:06.431 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-26 18:20:06.494 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-07-26 18:20:06.792 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-07-26 18:20:06.835 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2020-07-26 18:20:06.844 [restartedMain] INFO  com.aimerrhythms.blog.BlogApplication - Started BlogApplication in 2.379 seconds (JVM running for 3.337)
+2020-07-26 18:24:22.331 [Thread-10] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-26 18:24:22.453 [restartedMain] INFO  com.aimerrhythms.blog.BlogApplication - Starting BlogApplication on DESKTOP-CNOGRH7 with PID 17224 (E:\Idea_WorkSpace\aimerrhythms_blog\blog\target\classes started by aimerrhythm in E:\Idea_WorkSpace\aimerrhythms_blog)
+2020-07-26 18:24:22.454 [restartedMain] DEBUG com.aimerrhythms.blog.BlogApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-07-26 18:24:22.454 [restartedMain] INFO  com.aimerrhythms.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2020-07-26 18:24:22.723 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.aimerrhythms.blog]' package. Please check your configuration.
+2020-07-26 18:24:22.787 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2020-07-26 18:24:22.788 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-07-26 18:24:22.788 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-07-26 18:24:22.813 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-07-26 18:24:22.814 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 358 ms
+2020-07-26 18:24:22.875 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-26 18:24:22.892 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-07-26 18:24:23.007 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-07-26 18:24:23.026 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2020-07-26 18:24:23.029 [restartedMain] INFO  com.aimerrhythms.blog.BlogApplication - Started BlogApplication in 0.604 seconds (JVM running for 259.521)
+2020-07-26 18:24:23.031 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-07-26 18:25:11.160 [Thread-17] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-26 18:25:11.286 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === Starting BlogApplication on DESKTOP-CNOGRH7 with PID 17224 (E:\Idea_WorkSpace\aimerrhythms_blog\blog\target\classes started by aimerrhythm in E:\Idea_WorkSpace\aimerrhythms_blog)
+2020-07-26 18:25:11.287 === [restartedMain] === DEBUG === com.aimerrhythms.blog.BlogApplication === Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-07-26 18:25:11.287 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === No active profile set, falling back to default profiles: default
+2020-07-26 18:25:11.430 === [restartedMain] === WARN  === org.mybatis.spring.mapper.ClassPathMapperScanner === No MyBatis mapper was found in '[com.aimerrhythms.blog]' package. Please check your configuration.
+2020-07-26 18:25:11.504 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat initialized with port(s): 80 (http)
+2020-07-26 18:25:11.504 === [restartedMain] === INFO  === org.apache.catalina.core.StandardService === Starting service [Tomcat]
+2020-07-26 18:25:11.504 === [restartedMain] === INFO  === org.apache.catalina.core.StandardEngine === Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-07-26 18:25:11.523 === [restartedMain] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === Initializing Spring embedded WebApplicationContext
+2020-07-26 18:25:11.523 === [restartedMain] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === Root WebApplicationContext: initialization completed in 232 ms
+2020-07-26 18:25:11.568 === [restartedMain] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-26 18:25:11.581 === [restartedMain] === INFO  === o.s.b.a.web.servlet.WelcomePageHandlerMapping === Adding welcome page template: index
+2020-07-26 18:25:11.669 === [restartedMain] === INFO  === o.s.b.d.autoconfigure.OptionalLiveReloadServer === LiveReload server is running on port 35729
+2020-07-26 18:25:11.683 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat started on port(s): 80 (http) with context path ''
+2020-07-26 18:25:11.686 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === Started BlogApplication in 0.421 seconds (JVM running for 308.179)
+2020-07-26 18:25:11.689 === [restartedMain] === INFO  === o.s.b.d.a.ConditionEvaluationDeltaLoggingListener === Condition evaluation unchanged
+2020-07-26 18:31:49.082 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === Starting BlogApplication on DESKTOP-CNOGRH7 with PID 10556 (E:\Idea_WorkSpace\aimerrhythms_blog\blog\target\classes started by aimerrhythm in E:\Idea_WorkSpace\aimerrhythms_blog)
+2020-07-26 18:31:49.083 === [restartedMain] === DEBUG === com.aimerrhythms.blog.BlogApplication === Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-07-26 18:31:49.084 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === No active profile set, falling back to default profiles: default
+2020-07-26 18:31:49.130 === [restartedMain] === INFO  === o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor === Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-26 18:31:49.131 === [restartedMain] === INFO  === o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor === For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-26 18:31:49.866 === [restartedMain] === WARN  === org.mybatis.spring.mapper.ClassPathMapperScanner === No MyBatis mapper was found in '[com.aimerrhythms.blog]' package. Please check your configuration.
+2020-07-26 18:31:50.209 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat initialized with port(s): 80 (http)
+2020-07-26 18:31:50.217 === [restartedMain] === INFO  === org.apache.catalina.core.StandardService === Starting service [Tomcat]
+2020-07-26 18:31:50.218 === [restartedMain] === INFO  === org.apache.catalina.core.StandardEngine === Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-07-26 18:31:50.305 === [restartedMain] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === Initializing Spring embedded WebApplicationContext
+2020-07-26 18:31:50.305 === [restartedMain] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === Root WebApplicationContext: initialization completed in 1174 ms
+2020-07-26 18:31:50.495 === [restartedMain] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-26 18:31:50.564 === [restartedMain] === INFO  === o.s.b.a.web.servlet.WelcomePageHandlerMapping === Adding welcome page template: index
+2020-07-26 18:31:50.833 === [restartedMain] === INFO  === o.s.b.d.autoconfigure.OptionalLiveReloadServer === LiveReload server is running on port 35729
+2020-07-26 18:31:50.867 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat started on port(s): 80 (http) with context path ''
+2020-07-26 18:31:50.878 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === Started BlogApplication in 2.242 seconds (JVM running for 3.176)
+2020-07-26 18:32:21.501 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === Starting BlogApplication on DESKTOP-CNOGRH7 with PID 1008 (E:\Idea_WorkSpace\aimerrhythms_blog\blog\target\classes started by aimerrhythm in E:\Idea_WorkSpace\aimerrhythms_blog)
+2020-07-26 18:32:21.503 === [restartedMain] === DEBUG === com.aimerrhythms.blog.BlogApplication === Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-07-26 18:32:21.503 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === No active profile set, falling back to default profiles: default
+2020-07-26 18:32:21.552 === [restartedMain] === INFO  === o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor === Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-26 18:32:21.552 === [restartedMain] === INFO  === o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor === For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-26 18:32:22.214 === [restartedMain] === WARN  === org.mybatis.spring.mapper.ClassPathMapperScanner === No MyBatis mapper was found in '[com.aimerrhythms.blog]' package. Please check your configuration.
+2020-07-26 18:32:22.560 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat initialized with port(s): 80 (http)
+2020-07-26 18:32:22.565 === [restartedMain] === INFO  === org.apache.catalina.core.StandardService === Starting service [Tomcat]
+2020-07-26 18:32:22.566 === [restartedMain] === INFO  === org.apache.catalina.core.StandardEngine === Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-07-26 18:32:22.644 === [restartedMain] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === Initializing Spring embedded WebApplicationContext
+2020-07-26 18:32:22.645 === [restartedMain] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === Root WebApplicationContext: initialization completed in 1093 ms
+2020-07-26 18:32:22.838 === [restartedMain] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-26 18:32:22.914 === [restartedMain] === INFO  === o.s.b.a.web.servlet.WelcomePageHandlerMapping === Adding welcome page template: index
+2020-07-26 18:32:23.350 === [restartedMain] === INFO  === o.s.b.d.autoconfigure.OptionalLiveReloadServer === LiveReload server is running on port 35729
+2020-07-26 18:32:23.406 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat started on port(s): 80 (http) with context path ''
+2020-07-26 18:32:23.424 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === Started BlogApplication in 2.437 seconds (JVM running for 3.498)
+2020-07-26 18:34:07.244 === [Thread-9] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-26 18:34:07.355 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === Starting BlogApplication on DESKTOP-CNOGRH7 with PID 1008 (E:\Idea_WorkSpace\aimerrhythms_blog\blog\target\classes started by aimerrhythm in E:\Idea_WorkSpace\aimerrhythms_blog)
+2020-07-26 18:34:07.355 === [restartedMain] === DEBUG === com.aimerrhythms.blog.BlogApplication === Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-07-26 18:34:07.356 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === No active profile set, falling back to default profiles: default
+2020-07-26 18:34:07.613 === [restartedMain] === WARN  === org.mybatis.spring.mapper.ClassPathMapperScanner === No MyBatis mapper was found in '[com.aimerrhythms.blog]' package. Please check your configuration.
+2020-07-26 18:34:07.695 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat initialized with port(s): 80 (http)
+2020-07-26 18:34:07.696 === [restartedMain] === INFO  === org.apache.catalina.core.StandardService === Starting service [Tomcat]
+2020-07-26 18:34:07.696 === [restartedMain] === INFO  === org.apache.catalina.core.StandardEngine === Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-07-26 18:34:07.725 === [restartedMain] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === Initializing Spring embedded WebApplicationContext
+2020-07-26 18:34:07.725 === [restartedMain] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === Root WebApplicationContext: initialization completed in 366 ms
+2020-07-26 18:34:07.801 === [restartedMain] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-26 18:34:07.819 === [restartedMain] === INFO  === o.s.b.a.web.servlet.WelcomePageHandlerMapping === Adding welcome page template: index
+2020-07-26 18:34:07.962 === [restartedMain] === INFO  === o.s.b.d.autoconfigure.OptionalLiveReloadServer === LiveReload server is running on port 35729
+2020-07-26 18:34:07.980 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat started on port(s): 80 (http) with context path ''
+2020-07-26 18:34:07.985 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === Started BlogApplication in 0.656 seconds (JVM running for 108.058)
+2020-07-26 18:34:07.990 === [restartedMain] === INFO  === o.s.b.d.a.ConditionEvaluationDeltaLoggingListener === Condition evaluation unchanged
+2020-07-26 18:35:42.779 === [Thread-16] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-26 18:35:42.954 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === Starting BlogApplication on DESKTOP-CNOGRH7 with PID 1008 (E:\Idea_WorkSpace\aimerrhythms_blog\blog\target\classes started by aimerrhythm in E:\Idea_WorkSpace\aimerrhythms_blog)
+2020-07-26 18:35:42.954 === [restartedMain] === DEBUG === com.aimerrhythms.blog.BlogApplication === Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-07-26 18:35:42.954 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === No active profile set, falling back to default profiles: default
+2020-07-26 18:35:43.164 === [restartedMain] === WARN  === org.mybatis.spring.mapper.ClassPathMapperScanner === No MyBatis mapper was found in '[com.aimerrhythms.blog]' package. Please check your configuration.
+2020-07-26 18:35:43.235 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat initialized with port(s): 80 (http)
+2020-07-26 18:35:43.236 === [restartedMain] === INFO  === org.apache.catalina.core.StandardService === Starting service [Tomcat]
+2020-07-26 18:35:43.236 === [restartedMain] === INFO  === org.apache.catalina.core.StandardEngine === Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-07-26 18:35:43.262 === [restartedMain] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === Initializing Spring embedded WebApplicationContext
+2020-07-26 18:35:43.262 === [restartedMain] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === Root WebApplicationContext: initialization completed in 305 ms
+2020-07-26 18:35:43.319 === [restartedMain] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-26 18:35:43.338 === [restartedMain] === INFO  === o.s.b.a.web.servlet.WelcomePageHandlerMapping === Adding welcome page template: index
+2020-07-26 18:35:43.480 === [restartedMain] === INFO  === o.s.b.d.autoconfigure.OptionalLiveReloadServer === LiveReload server is running on port 35729
+2020-07-26 18:35:43.495 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat started on port(s): 80 (http) with context path ''
+2020-07-26 18:35:43.499 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === Started BlogApplication in 0.577 seconds (JVM running for 203.572)
+2020-07-26 18:35:43.501 === [restartedMain] === INFO  === o.s.b.d.a.ConditionEvaluationDeltaLoggingListener === Condition evaluation unchanged
+2020-07-26 18:36:45.158 === [Thread-21] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-26 18:36:45.266 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === Starting BlogApplication on DESKTOP-CNOGRH7 with PID 1008 (E:\Idea_WorkSpace\aimerrhythms_blog\blog\target\classes started by aimerrhythm in E:\Idea_WorkSpace\aimerrhythms_blog)
+2020-07-26 18:36:45.267 === [restartedMain] === DEBUG === com.aimerrhythms.blog.BlogApplication === Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-07-26 18:36:45.267 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === No active profile set, falling back to default profiles: default
+2020-07-26 18:36:45.421 === [restartedMain] === WARN  === org.mybatis.spring.mapper.ClassPathMapperScanner === No MyBatis mapper was found in '[com.aimerrhythms.blog]' package. Please check your configuration.
+2020-07-26 18:36:45.610 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat initialized with port(s): 80 (http)
+2020-07-26 18:36:45.611 === [restartedMain] === INFO  === org.apache.catalina.core.StandardService === Starting service [Tomcat]
+2020-07-26 18:36:45.611 === [restartedMain] === INFO  === org.apache.catalina.core.StandardEngine === Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-07-26 18:36:45.629 === [restartedMain] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === Initializing Spring embedded WebApplicationContext
+2020-07-26 18:36:45.629 === [restartedMain] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === Root WebApplicationContext: initialization completed in 359 ms
+2020-07-26 18:36:45.774 === [restartedMain] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-26 18:36:45.810 === [restartedMain] === INFO  === o.s.b.a.web.servlet.WelcomePageHandlerMapping === Adding welcome page template: index
+2020-07-26 18:36:45.985 === [restartedMain] === INFO  === o.s.b.d.autoconfigure.OptionalLiveReloadServer === LiveReload server is running on port 35729
+2020-07-26 18:36:45.997 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat started on port(s): 80 (http) with context path ''
+2020-07-26 18:36:46.000 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === Started BlogApplication in 0.762 seconds (JVM running for 266.074)
+2020-07-26 18:36:46.001 === [restartedMain] === INFO  === o.s.b.d.a.ConditionEvaluationDeltaLoggingListener === Condition evaluation unchanged
+2020-07-26 18:38:40.373 === [Thread-26] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-26 18:38:40.502 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === Starting BlogApplication on DESKTOP-CNOGRH7 with PID 1008 (E:\Idea_WorkSpace\aimerrhythms_blog\blog\target\classes started by aimerrhythm in E:\Idea_WorkSpace\aimerrhythms_blog)
+2020-07-26 18:38:40.503 === [restartedMain] === DEBUG === com.aimerrhythms.blog.BlogApplication === Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-07-26 18:38:40.503 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === No active profile set, falling back to default profiles: default
+2020-07-26 18:38:40.657 === [restartedMain] === WARN  === org.mybatis.spring.mapper.ClassPathMapperScanner === No MyBatis mapper was found in '[com.aimerrhythms.blog]' package. Please check your configuration.
+2020-07-26 18:38:40.775 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat initialized with port(s): 80 (http)
+2020-07-26 18:38:40.776 === [restartedMain] === INFO  === org.apache.catalina.core.StandardService === Starting service [Tomcat]
+2020-07-26 18:38:40.776 === [restartedMain] === INFO  === org.apache.catalina.core.StandardEngine === Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-07-26 18:38:40.794 === [restartedMain] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === Initializing Spring embedded WebApplicationContext
+2020-07-26 18:38:40.794 === [restartedMain] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === Root WebApplicationContext: initialization completed in 286 ms
+2020-07-26 18:38:40.948 === [restartedMain] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-26 18:38:40.987 === [restartedMain] === INFO  === o.s.b.a.web.servlet.WelcomePageHandlerMapping === Adding welcome page template: index
+2020-07-26 18:38:41.252 === [restartedMain] === INFO  === o.s.b.d.autoconfigure.OptionalLiveReloadServer === LiveReload server is running on port 35729
+2020-07-26 18:38:41.261 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat started on port(s): 80 (http) with context path ''
+2020-07-26 18:38:41.267 === [restartedMain] === INFO  === com.aimerrhythms.blog.BlogApplication === Started BlogApplication in 0.786 seconds (JVM running for 381.34)
+2020-07-26 18:38:41.268 === [restartedMain] === INFO  === o.s.b.d.a.ConditionEvaluationDeltaLoggingListener === Condition evaluation unchanged
